@@ -1,0 +1,9 @@
+{
+  "name": "genius-hacker-api",
+  "version": "1.0.0",
+  "description": "GENIUS HACKER 29 API - Phone Number Lookup",
+  "main": "api/lookup.py",
+  "dependencies": {
+    "requests": "^2.31.0"
+  }
+}
