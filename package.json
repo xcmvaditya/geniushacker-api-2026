@@ -1,0 +1,12 @@
+{
+  "name": "geniushacker-api",
+  "version": "1.0.0",
+  "description": "GENIUS HACKER 29 API - Phone Number Lookup",
+  "main": "api/lookup.py",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "vercel": "^34.0.0"
+  }
+}
